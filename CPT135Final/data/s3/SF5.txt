@@ -1,0 +1,8 @@
+SF5,Scratch one bogey,SF6,Bomb the Capital Ship,SF7,Clear the bombers,
+In a moment of pure genius you decide to stomp on the brakes, so to speak.
+Your starfighter quickly drops its speed by its forward thrusters pushing back.
+The enemy flies past you opening them up to your barrage of blue lasers.
+"Scratch one bogey!" you exclaim.
+With no time to celebrate you see a wing of enemy bombers making a straight path right to your capital ship.
+At the same time you also see that their capital ship is clear of defenders for the moment.
+Do you decide to do a bombing run on the enemy capital ship, or go and defend yours of the enemy bombers?

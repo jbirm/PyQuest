@@ -1,0 +1,4 @@
+SF4,Barrelling Away,SF10,Game Over,SF10,This is an ending,
+As you perform a rather textbook barrell roll, you recall a piece of information from flight school.
+"Barrell rolls don't help against proton missiles." you recalled.
+Sadly that proves true here as your ship is destroyed and your story with it.

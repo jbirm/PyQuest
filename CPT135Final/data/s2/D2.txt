@@ -1,0 +1,3 @@
+D2,Bad Ending,A,Return to Beginning,A,Return to main menu,
+You try to ransom off the information only to be captured and tortured by the King. 
+You are killed afterwards!

@@ -1,0 +1,8 @@
+SF2,Attack Positions!,SF4,Do a barrell roll,SF5, Drop speed,
+"Lock S-Foils and run attack positions!" you declare into your comm piece.
+After a quick flight you meet enemy fighters in the cold of space, many of your flight begin dog fights.
+One particulary pesky enemy catches you on your six, the red lasers whiz past your cockpit.
+Weaving in and out the enemy fighter keeps up with your maneuvers, even as you pick up speed.
+A familiar sound rings in your ears as your ship AI declares, "Missile Lock... Missile Lock..."
+You pound your fist into the console and weigh your options quickly.
+Do you perform a barrell roll, or do you suddenly drop your speed?

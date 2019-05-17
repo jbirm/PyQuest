@@ -1,0 +1,3 @@
+A,Start,B1,Hide and Sneak,B2,Join the Bandits,
+You leave your village on a journey. Comes across bandits.
+Do you want to hide and sneak through bandit camp or try to join them?

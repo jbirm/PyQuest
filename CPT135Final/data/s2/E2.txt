@@ -1,0 +1,4 @@
+E2,Bad Ending,A,Try Again,A,Return to Main Menu,
+You spend several years attacking villages before you fall in battle.
+The villagers put your body on a pike as a message to the other bandits.
+You are dead.

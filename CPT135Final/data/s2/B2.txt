@@ -1,0 +1,3 @@
+B2,Start,E1,Attack the corrupt,E2,Attack the innocent,
+You join the bandits.
+Will you attack only corrupt soldiers or loot villages?

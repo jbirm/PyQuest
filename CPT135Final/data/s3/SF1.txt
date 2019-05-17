@@ -1,0 +1,6 @@
+SF1,Take Off,SF2,Lock S-Foils and Attack Positions,SF3,Fly through the space debris,
+The Galactic Empire has decided to attack your starcarrier.
+You are one of the few ace pilots left alive to take on the Empire!
+As you take off in your new advanced Gladius Starfighter members of your squad call out their designations.
+"What are our orders Blue-5?" one of the fighters calls out to you.
+You have the choice of locking your S-Foils and assuming attack positions or flying through some nearby space debris for a sneak attack.

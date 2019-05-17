@@ -1,0 +1,4 @@
+SF10,Game Over!,SF1,Restart,SF1,This is an ending,
+Your story is told by many, as a cautionary tale of making the right choice in battle.
+You served with dignity and were buried the same.
+Game Over.

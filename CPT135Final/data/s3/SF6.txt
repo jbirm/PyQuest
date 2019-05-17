@@ -1,0 +1,5 @@
+SF6,Bombing Run,SF10,Game Over,SF10,This is an ending,
+You begin your approach vector on the enemy capital ship.
+Sadly this ship was upgraded with point defense systems.
+Not only was your bomb destroyed but so what your fighter.
+It was a brave maneuver, but not the right one...

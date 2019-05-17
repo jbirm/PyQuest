@@ -1,0 +1,9 @@
+ep0d0,Approach,ep1d1,Try to Communicate,ep1d2,Slay the Goblins,
+You are Sir Py Thon, the most powerful knight in the King’s realm. 
+You are returning from a diplomatic mission in the province south of the kingdom with your squire, Sancho Panza.
+The road you are walking on is nothing more than a gap between the tall grass, flattened by the dozens of travelers that use it every day.
+Up ahead you see that the path enters a forest marking the boundary between provinces: home. 
+As you enter the forest you start to think about your warm bed and the feast that awaits you for a successful mission. 
+While lost in your daydream you just about trip over a small group of goblins. 
+From the looks of their equipment you determine that they are the vanguard for a much larger force.
+You can either try to communicate with them or slay them like the disgusting creatures they are.

@@ -1,0 +1,5 @@
+E1,Medium Ending,A,Try Again,A,Return to Menu,
+You eventually earn the right to lead the bandits and earn the respect and love of a princess.
+You marry the princess and make a last stand against the kings forces.
+You both die together.
+

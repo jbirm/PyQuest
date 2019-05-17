@@ -1,0 +1,5 @@
+ep2d2,Honest Knight,ep0d0,Restart,ep0d0,This is an ending,
+You sheathe your sword and approach the crowd.
+You inform them that you are the king's knight and willslay the goblins.
+The crowd cheers you on as you ride with your squire to the goblin's encampment.
+You slaughter all the goblins and come back a hero.

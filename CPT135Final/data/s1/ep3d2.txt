@@ -1,0 +1,5 @@
+ep3d2,The Wise Knight,ep0d0,Restart,ep0d0,This is an ending,
+You tell the man that the king does care about his people.
+You recount your mission to the south which brings the people at ease.
+The mayor asks if you help and you do.
+The goblins are defeated and you win!

@@ -1,0 +1,2 @@
+B1, Start,C1,Look for weak spots,C2,Continue to your village,
+Do you want to Look for weak spots or continue on to your village?

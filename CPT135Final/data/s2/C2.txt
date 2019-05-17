@@ -1,0 +1,3 @@
+C2,Bad Ending,A,Try Again,A,Main Menu,
+You continue on to your village but are captured by a small group of bandits and killed.
+You are dead.

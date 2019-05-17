@@ -1,0 +1,2 @@
+C1,Another Decision,D1,Give information Freely,D2,Ransom information,
+Do you want to take the info to the King or try to ransom off the information?

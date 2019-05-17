@@ -1,0 +1,23 @@
+ep2d1,An Aggressive Approach,ep3d1,Punish the Man,ep3d2,Let it Slide,
+Unsure of the situation, you keep your sword ready as you approach the crowd. 
+You hear someone yelling in the crowd about the King’s lack of action and suggest they seek aid from the province south. 
+When you reach the edge, you begin to push the people apart. 
+The townsfolk all gasp and step away from you to create a path towards the scaffolding. 
+The sudden silence makes you very uncomfortable and Panza chuckles nervously while bowing towards the crowd. 
+Looking at their faces, you can tell they are a very distressed people and that many of them have bandaged wounds on their legs. 
+You remember seeing the same wounds on soldiers who fought in the Goblin War a few years ago.
+As you climb onto the scaffolding, the man on it starts to shake fearfully. 
+You stand and look him in the eyes. He looks from your eyes down to your blade and back to your eyes.
+“I heard some people here saying that you should abandon your king,” you speak over the hushed crowd. 
+“This is treason and is punishable by death.”
+“We have sent word to the castle weeks ago and have received no aid! The king has already abandoned us!” a voice yells from the crowd.
+“Maybe your runners were intercepted before reaching the castle! How do you know that the king has heard your plea?” you shout back.
+The silence of the crowd shows their embarrassment. They had assumed the king had received their message without confirmation of it. 
+Before you can speak again, the man next to you steps forward and introduces himself.
+“I am Mayor Digary. I represent the good people of Millstone and serve the good King first and foremost,” he said, 
+“I recognize your insignia, you are Sir Py Thon, yes? Your great strength and power is known throughout the land. 
+Have you come to save us from the goblins?”
+You look out into the eyes of the broken and beaten people. 
+Knowing that anything their crimes against their king were due to stress and desperation. 
+You also know that letting anyone speak publicly against the king for any reason could result in an uprising that your southern neighbors will surely take advantage of.
+Will you punish the man who spoke up against the king and show them the king’s power or will you let the transgression slide by showing the king’s compassion?
